@@ -1,0 +1,95 @@
+Jordan,1
+Jordan,2
+Jordan,3
+Jordan,4
+Jordan,5
+Jordan,6
+Jordan,7
+Jordan,8
+Jordan,9
+Jordan,10
+Jordan,11
+Jordan,12
+Jordan,13
+Jordan,14
+Jordan,15
+Jordan,Eclipse
+Nike,Cortez
+Nike,Internationalist
+Nike,Free Run 5
+Nike,Free Run 2
+Nike,Janoski
+Nike,Presto
+Nike,Sock Dart
+Nike,Huarache
+Nike,Air Max 1
+Nike,Air Max 90
+Nike,Air Max 95
+Nike,Air Max 97
+Nike,Air Tech Challenge
+Nike,Vapormax
+Nike,Flyknit Racer
+Nike,Air Force 1
+Nike,Blazer
+Nike,Dunk Low
+Nike,Dunk High
+Adidas,Superstar
+Adidas,Samba
+Adidas,Gazelle
+Adidas,Stan Smith
+Adidas,Pro Model
+Adidas,Tubular Doom
+Adidas,Tubular
+Adidas,Tubular Invader
+Adidas,Tubular Shadow
+Adidas,Ultra Boost
+Adidas,Pure Boost
+Adidas,NMD
+Adidas,ZX Flux
+Adidas,Top Ten
+Adidas,Ozweego 2
+Adidas,Response Trail 2
+Adidas,Hu NMD
+Adidas,EQT Support
+Adidas,Yeezy 350
+Adidas,Yeezy 750
+Asics,Gel Lyte 3
+Asics,Gel Lyte 5
+Asics,Gel Sight
+Converse,All Star
+Converse,Jack Purcell
+Onitsuka,Mexico 66
+Vans,Era
+Vans,Authentic
+Vans,Sk8 Hi
+Vans,Old Skools
+Vans,Half Cab
+Vans,Slip On
+Filling Pieces,Low Top
+Filling Pieces,Ghost
+Filling Pieces,Apache Runner
+Diadora,N9000
+Diadora,Equipe
+Karhu,Fusion 2
+Saucony,Jazz
+Saucony,Shadow
+Saucony,Grid 9000
+Reebok,Classic Leather
+Reebok,Pump Fury
+Reebok,Lifter
+Puma,Creepers
+Puma,Suede Classic
+Fila,Disruptor
+New Balance,997
+New Balance,998
+New Balance,999
+New Balance,574
+New Balance,1500
+New Balance,420
+Margiela,GAT
+Margiela,Future
+Balenciaga,Arena
+Bape,Bapesta
+Common Projects,Achilles
+Visvim,FBT
+Fear of God,Military Sneaker

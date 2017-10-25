@@ -1,0 +1,3 @@
+[submodule "tools/google_images_download"]
+	path = tools/google_images_download
+	url = https://github.com/LaVieEnRoux/google-images-download
